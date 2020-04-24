@@ -16,3 +16,5 @@ The files are:
 - price_benchmark.py: Benchmark method (variation of "similar-day").
 
 - NIV_RecExp.R: Recursively expanding model to forecast imbalance sign.
+
+- folder_structure.jpg: Illustration of the folder structure for _price forecasting_ input data.
