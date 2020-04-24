@@ -1,20 +1,18 @@
 # phd-thesis
 This repository includes all the scripts developed within the work of my Ph.D. Thesis and included in Appendix D.
 
-The Sections within the Appendix are:
-- D.1) Day-ahead and imbalance price forecasting with ARMAX models;
-- D.2) Monte Carlo simulations;
-- D.3) Benchmark price forecasting model; and
-- D.4) Imbalance sign forecasting.
+The files included in each Section within the Appendix are listed below.
 
-The files are:
-- Price_Rec_exp.R: Recursively expanding model to forecast prices.
-- Price_Rolling.R: Rolling (moving window) model to forecast prices.
+- **D.1 Day-ahead and imbalance price forecasting with ARMAX models**
+  - folder_structure.jpg: Illustration of the folder structure for _price forecasting_ input data.
+  - Price_Rec_exp.R: Recursively expanding model to forecast prices.
+  - Price_Rolling.R: Rolling (moving window) model to forecast prices.
 
-- Monte_Carlo.py: Monte Carlo simulations.
+- **D.2 Monte Carlo simulations**
+  - Monte_Carlo.py: Monte Carlo simulations.
 
-- price_benchmark.py: Benchmark method (variation of "similar-day").
+- **D.3 Benchmark price forecasting model**
+  - price_benchmark.py: Benchmark method (variation of "similar-day").
 
-- NIV_RecExp.R: Recursively expanding model to forecast imbalance sign.
-
-- folder_structure.jpg: Illustration of the folder structure for _price forecasting_ input data.
+- **D.4 Imbalance sign forecasting**
+  - NIV_RecExp.R: Recursively expanding model to forecast imbalance sign.
