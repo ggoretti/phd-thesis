@@ -12,7 +12,7 @@ The files included in each Section within the Appendix are listed below.
   - Monte_Carlo.py: Monte Carlo simulations.
 
 - **D.3 Benchmark price forecasting model**
-  - price_benchmark.py: Benchmark method (variation of "similar-day").
+  - Price_Benchmark.py: Benchmark model (variation of the "similar-day" method).
 
 - **D.4 Imbalance sign forecasting**
   - NIV_RecExp.R: Recursively expanding model to forecast imbalance sign.
