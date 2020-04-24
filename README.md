@@ -1,4 +1,4 @@
-# phd-thesis
+# Source codes in the Ph.D. Thesis
 This repository includes all the scripts developed within the work of my Ph.D. Thesis and included in Appendix D.
 
 The files included in each Section within the Appendix are listed below.
