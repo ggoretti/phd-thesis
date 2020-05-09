@@ -1,7 +1,7 @@
 # Import libraries
 import pandas as pd
 
-
+ 
 # - - - Import data - - -
 df = pd.read_csv("data.csv", index_col=0, parse_dates=True)
 df.sort_index(inplace = True)
